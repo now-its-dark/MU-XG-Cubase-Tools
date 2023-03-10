@@ -1,0 +1,5 @@
+This is a collection of Cubase drum maps for the 32 XG Kits + GM2 & TG300B found on the MU1000 and 2000. I will eventually reference these against all the other models and specify which are relevant across the range of devices.
+One nice thing, is that the StandKit MU Basic sounds are indicated in every kit where they are used (slots which are not unique to the kit) these are all labelled as "SK" before the name of the sound. 
+
+These maps were generated using the awesome mapdrums tool by barndollarmusic.
+https://github.com/barndollarmusic/mapdrums
